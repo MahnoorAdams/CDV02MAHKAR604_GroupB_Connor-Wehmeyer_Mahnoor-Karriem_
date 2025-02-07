@@ -1,6 +1,5 @@
 # CDV02MAHKAR604_GroupB_Connor-Wehmeyer_Mahnoor-Karriem_
 
-Got it! Based on your input, I'll create a professional and concise README for your GitHub profile. Here's a draft based on what you've shared:
 
 ---
 
