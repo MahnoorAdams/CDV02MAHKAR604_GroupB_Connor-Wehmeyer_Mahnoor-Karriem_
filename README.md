@@ -37,16 +37,7 @@ I’m constantly improving my skills and pushing myself to explore new technolog
 
 ---
 
-### Projects
-*(This section can be updated once you start building personal or open-source projects. For now, you could leave it empty or add a note like "Check back soon for upcoming projects.")*
 
----
 
-### How to Set Up Your GitHub Profile README
-If you want to make your GitHub profile look professional like mine, you can follow the checklist and step-by-step guide in the project brief to update your profile with a similar structure.
 
----
 
-This structure is simple, professional, and will make a solid first impression. Once you start working on more projects, you can easily update this README by adding pinned repositories or project details.
-
-How does that look? If you’d like to make any tweaks or additions, feel free to let me know!
